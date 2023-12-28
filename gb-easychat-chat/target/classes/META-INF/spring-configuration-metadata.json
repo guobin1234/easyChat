@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "socketio",
+      "type": "com.easychat.chat.config.SocketIOProperties",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "socketio.allow-custom-requests",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.max-frame-payload-length",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.max-http-content-length",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.ping-interval",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.ping-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.upgrade-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    },
+    {
+      "name": "socketio.work-count",
+      "type": "java.lang.Integer",
+      "sourceType": "com.easychat.chat.config.SocketIOProperties"
+    }
+  ],
+  "hints": []
+}
